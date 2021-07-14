@@ -9,11 +9,11 @@
       "result": "Funny - You have a wicked sense of humour!"
     },
      {
-       id 3,
+       "id": 3,
       "result": "Outgoing - You’re a perfect mix of funny, chill, and intelligence!"
     },
       {
-        id 4,
+        "id": 4,
       "result": "Shy - You’re shy and reserved!"
     }
   ],
